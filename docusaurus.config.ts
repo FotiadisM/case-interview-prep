@@ -11,11 +11,13 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'http://localhost',
-  baseUrl: '/',
+  url: 'https://FotiadisM.github.io',
+  baseUrl: '/case-interview-prep/',
 
-  organizationName: 'local',
+  organizationName: 'FotiadisM',
   projectName: 'case-interview-prep',
+
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
 
